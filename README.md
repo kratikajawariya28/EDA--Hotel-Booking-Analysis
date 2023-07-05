@@ -113,6 +113,74 @@ Performed EDA and tried answering the following questions:
 
  Q20) Does not allowing the same room as demanded to affect ADR?
 
+ ## Exploratory Data Analysis
+
+ ### Booking Analysis:
+
+Identifying the agent making the most number of bookings.
+Determining the hotel room type that is in high demand.
+Identifying the room type that generates the highest Average Daily Rate (ADR).
+Determining the preferred meal type of customers.
+Analyzing the preferred length of stay in each hotel.
+Identifying the busiest months in terms of bookings.
+Determining the month that yields the highest revenue.
+
+### Monthly and Yearly Booking Analysis:
+
+Analyzing the monthly booking trends in both types of hotels.
+Analyzing the yearly booking trends in both types of hotels.
+
+### Guest Analysis:
+
+Identifying the country from which the greatest number of guests has arrived.
+Analyzing the length of stay of guests at the hotels.
+Determining if the length of stay impacts the Average Daily Rate (ADR).
+Calculating the percentage of bookings in each hotel.
+Identifying the hotel that generates more revenue.
+Comparing the lead time between the two hotels.
+Comparing the wait time between the two hotels.
+Analyzing the booking cancellation rate of each hotel.
+Determining the likelihood of customers returning for another stay.
+
+### Channel Analysis:
+
+Identifying the most common channel used for booking hotels.
+Analyzing the channel mostly used for early hotel bookings.
+Determining the average waiting time for each channel.
+Analyzing which distribution channel brings better revenue-generating deals.
+Identifying the significant distribution channel with the highest cancellation percentage.
+
+### Cancellation Analysis:
+
+Analyzing the reasons for booking cancellation.
+Determining if non-allocation of the requested room type contributes to booking cancellations.
+
+### ADR and Arrival Analysis:
+
+Analyzing the trend of arrival numbers and Average Daily Rate (ADR) within a month.
+Comparing the booking percentage among different customer categories (singles, couples, family/friends).
+
+### Prediction Analysis:
+
+Predicting whether a hotel is likely to receive a disproportionately high number of special requests.
+
+### Special Request Analysis:
+
+Analyzing special requests based on the number of kids.
+
+### Pair Plot:
+
+Generating a pair plot to visualize the relationships between multiple variables.
+ 
+
+
+
+
+
+
+
+ 
+
 
 
 
