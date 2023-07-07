@@ -171,6 +171,26 @@ Analyzing special requests based on the number of kids.
 ### Pair Plot:
 
 Generating a pair plot to visualize the relationships between multiple variables.
+
+##  Mainly Chart perform
+
+Bar Plot
+
+Count plot
+
+Histogram
+
+Scatter Plot
+
+Pie Chart
+
+Line Plot
+
+Heatmap
+
+Box Plot
+
+Pairplot
  
 
 
