@@ -1,4 +1,4 @@
-# EDA--Hotel-Booking-Analysis
+# EDA-Hotel-Booking-Analysis
 ## Objective
 
 The objective of this project is to perform an EDA on the hotel booking dataset to gain some insights which will be helpful in understanding the patterns and trends in booking analysis, cancellation analysis, Revenue analysis, customer segmentation and competitive analysis. The valuable insights gained will be helpful in improving operational efficiency, better financial management, increasing revenue, and supporting data-driven decision-making and competitive positioning.
@@ -191,8 +191,37 @@ Heatmap
 Box Plot
 
 Pairplot
- 
 
+## Conclusion
+
+- City hotels account for approximately 60% of bookings, while Resort hotels comprise around 40% of the bookings.
+- Agent 9 has done the maximum number of bookings.
+- TA/TO channel has the highest booking followed by the corporate channel.
+- Bookings were very low through the GDS channel.
+- Most preferred meal type is BB (Bed and breakfast).
+- Portugal and other European countries have the most guests.
+- Room type A is most preferred followed by D and E.
+- Most stays are usually shorter than 5 days, with a preference for City hotels. Conversely, for longer durations, Resort hotels are the preferred choice.
+- The average ADR of city hotels is slightly higher compared to resort hotels, despite resort hotels having more bookings.
+- Room type H generate highest revnue followed by G.
+Room type L generated lowest revnue.
+- GDS channel brings higher revenue generating deal, in contrast to that most bookings come via TA/TO.
+- Resort hotel has more revnue generating deals by direct and TA/TO channel. Resort Hotel need to increase outreach on GDS channel to increase revenue.
+- Most of the adr is below 400.
+- As the length of stay increases, the ADR tends to decrease.
+- The non-allocation of the requested room type does have an impact on the average daily rate (ADR). Generally, those who did not receive the requested room type have paid a slightly lower ADR, with only a few exceptions.
+- Nearly 30% of the bookings made for City Hotel were ultimately canceled.
+- The booking cancellation rate for TA/TO is the highest, indicating that there is a 30% likelihood of a booking made through TA/TO getting cancelled. Corporate has least cancellation percentage.
+- Cancellation of bookings generally occurs within 200 days of the waiting period.
+- The non-allocation of the requested room type, waiting days and lead time do not significantly impact the likelihood of cancellation.
+- Both types of hotel bookings experience an upward trend from January to August, with a minor dip in June for resort hotels. Subsequently, bookings start to decline.
+- The month of August demonstrates the highest demand across the observed period.
+- In both type of hotel, adr rises from starting of year till august and the start decreasing and then slightly increse in december.
+- In July and August resort hotel generates more adr than city hotel.
+- The "Arrival_num" exhibits small peaks at regular intervals, which could be attributed to increased arrivals on weekends. Moreover, the average daily rate (ADR) tends to increase towards the end of the month.
+- There are very less repeated customer.
+- The Resort Hotel shows a slightly higher percentage of repeat customers compared to the City Hotel.
+- City hotel has slightly higher median lead time. Also median lead time is significantly higher in each case, this means customers generally plan their hotel visits way to early.
 
 
 
